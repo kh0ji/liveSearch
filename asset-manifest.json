@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/liveSearch/static/css/main.49c755f2.chunk.css",
+    "main.js": "/liveSearch/static/js/main.8342d80c.chunk.js",
+    "main.js.map": "/liveSearch/static/js/main.8342d80c.chunk.js.map",
+    "runtime-main.js": "/liveSearch/static/js/runtime-main.a12167e9.js",
+    "runtime-main.js.map": "/liveSearch/static/js/runtime-main.a12167e9.js.map",
+    "static/js/2.da9e135c.chunk.js": "/liveSearch/static/js/2.da9e135c.chunk.js",
+    "static/js/2.da9e135c.chunk.js.map": "/liveSearch/static/js/2.da9e135c.chunk.js.map",
+    "index.html": "/liveSearch/index.html",
+    "precache-manifest.ce763f8102cf14419f82e7eb5d88ad0d.js": "/liveSearch/precache-manifest.ce763f8102cf14419f82e7eb5d88ad0d.js",
+    "service-worker.js": "/liveSearch/service-worker.js",
+    "static/css/main.49c755f2.chunk.css.map": "/liveSearch/static/css/main.49c755f2.chunk.css.map",
+    "static/js/2.da9e135c.chunk.js.LICENSE.txt": "/liveSearch/static/js/2.da9e135c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a12167e9.js",
+    "static/js/2.da9e135c.chunk.js",
+    "static/css/main.49c755f2.chunk.css",
+    "static/js/main.8342d80c.chunk.js"
+  ]
+}
